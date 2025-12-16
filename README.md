@@ -1,7 +1,7 @@
 # Serenitas: A Homeostatic Cognitive Architecture
 
 [![DOI - Engineering](https://zenodo.org/badge/DOI/10.5281/zenodo.17951814.svg)](https://doi.org/10.5281/zenodo.17951814)
-[![DOI - Philosophy](https://zenodo.org/badge/DOI/10.5281/zenodo.17952248.svg)](https://doi.org/10.5281/zenodo.17952248)
+[![DOI - Philosophy](https://zenodo.org/badge/DOI/10.5281/zenodo.17952248.svg?v=2)](https://doi.org/10.5281/zenodo.17952248)
 ![Platform](https://img.shields.io/badge/platform-.NET%208-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
